@@ -15,3 +15,5 @@
 基础作业模型权重下载链接：https://pan.baidu.com/s/1ByhkTKhHDzyFE9yrddc4bA?pwd=9h7n 
 提取码：9h7n 
 
+进阶作业模型权重下载链接：https://pan.baidu.com/s/1C-8l7RagwCu0FdrWzV-8Ww?pwd=rg1i 
+提取码：rg1i 
